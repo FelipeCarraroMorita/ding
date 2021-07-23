@@ -8,5 +8,4 @@ def ding():
 
 # Para o Google Colab
 def ding2():
-    IPython.display.Audio("http://tale3habet.eb2a.com/sounds/kitchen%20timer%20done.mp3", autoplay=True)
-    time.sleep(9)
+    return IPython.display.Audio("http://tale3habet.eb2a.com/sounds/kitchen%20timer%20done.mp3", autoplay=True)
