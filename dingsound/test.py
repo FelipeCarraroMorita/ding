@@ -1,5 +1,7 @@
 import dingsound
 
+# Duas funções:
+
 # Padrão
 dingsound.ding()
 
