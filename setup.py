@@ -11,7 +11,7 @@ setup(
     author_email="<fmorita@gmail.com>",
     description=DESCRIPTION,
     packages=find_packages(),
-    install_requires=['python-vlc'],
+    install_requires=['playsound', 'IPython'],
     keywords=['python', 'dingsound', 'sound'],
     classifiers=[
         "Development Status :: 1 - Planning",
