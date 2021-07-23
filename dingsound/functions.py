@@ -2,9 +2,10 @@ import time
 from playsound import playsound
 import IPython
 
-def ding():
+def ding(mute = False):
     playsound("http://tale3habet.eb2a.com/sounds/kitchen%20timer%20done.mp3")
-    time.sleep(9)
+    if mute == True:
+        time.sleep(9)
 
 # Para o Google Colab
 def ding2():

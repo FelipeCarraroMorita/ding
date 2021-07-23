@@ -15,4 +15,6 @@ There is **only 2 functions** in this package:
 1. `d.ding()` for most offline IDE's
 2. `d.ding2()` for Google Colab
 
+`d.ding` has a parameter "mute" that is by default false, but if you call the function and it makes no sound (like will happen on PyCharm) try setting it up as True.
+
 Both do in a pratical manner the same stuff! Have fun.

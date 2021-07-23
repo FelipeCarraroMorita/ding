@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.3'
+VERSION = '0.0.4'
 DESCRIPTION = 'An oven timer dingsound sound function to be called once your code finishes running!'
 
 # Setting up
