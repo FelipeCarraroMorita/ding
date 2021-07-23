@@ -1,3 +1,0 @@
-import ding
-
-ding.ding()

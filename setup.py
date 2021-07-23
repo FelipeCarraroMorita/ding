@@ -1,18 +1,18 @@
 from setuptools import setup, find_packages
 
 VERSION = '0.0.1'
-DESCRIPTION = 'An oven timer ding sound function to be called once your code finishes running!'
+DESCRIPTION = 'An oven timer dingsound sound function to be called once your code finishes running!'
 
 # Setting up
 setup(
-    name="ding",
+    name="dingsound",
     version=VERSION,
     author="Felipe Carraro Morita",
     author_email="<fmorita@gmail.com>",
     description=DESCRIPTION,
     packages=find_packages(),
     install_requires=['python-vlc'],
-    keywords=['python', 'ding', 'sound'],
+    keywords=['python', 'dingsound', 'sound'],
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",

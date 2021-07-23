@@ -1,3 +1,3 @@
-import ding
+import dingsound
 
-ding.ding()
+dingsound.ding()

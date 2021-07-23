@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: dingsound
+Version: 0.0.1
+Summary: An oven timer dingsound sound function to be called once your code finishes running!
+Home-page: UNKNOWN
+Author: Felipe Carraro Morita
+Author-email: <fmorita@gmail.com>
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: python,dingsound,sound
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
