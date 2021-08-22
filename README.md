@@ -5,7 +5,7 @@ An oven timer ding sound function to be called once your code finishes running! 
 To know when your code finish processing without having to look at the screen.
 
 ## Installation
-`!pip install dingsound==0.0.3`
+`!pip install dingsound
 
 
 ## How to use
